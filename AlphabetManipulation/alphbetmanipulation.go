@@ -16,5 +16,5 @@ func num(n int) string{
 
 
 func main(){
-	fmt.Println(num(10))
+	fmt.Println(num(12))
 }
