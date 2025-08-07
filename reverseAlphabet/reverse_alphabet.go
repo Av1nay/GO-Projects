@@ -17,5 +17,5 @@ func ReverseAlphabet(step int) string{
 }
 
 func main(){
-	fmt.Println(ReverseAlphabet(6))
+	fmt.Println(ReverseAlphabet(12))
 }
